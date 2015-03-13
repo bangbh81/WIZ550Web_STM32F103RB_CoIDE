@@ -54,8 +54,8 @@ For more details, please refer to [WIZ550web Wiki page](http://wizwiki.net/wiki/
 ## Software
 These are Firmware projects (source code) based on CoIDE with GCC ARM Emvedded.(4.8-2014-q1)
 - Development envionment
-  -[CoIDE download link](http://www1.coocox.org/CooCox_CoIDE.htm)
-  -[GCC ARM Embedded download link](https://launchpad.net/gcc-arm-embedded/+download)
+  -[CoIDE download link](http://www1.coocox.org/CooCox_CoIDE.htm) 
+  -[GCC ARM Embedded download link](https://launchpad.net/gcc-arm-embedded/+download) 
 - Firmware source code
   - Application
   - Boot
