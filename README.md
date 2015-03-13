@@ -51,9 +51,11 @@ For more details, please refer to [WIZ550web Wiki page](http://wizwiki.net/wiki/
 - SD Card Slot
 - 2.54mm Pin Header x 2
 
-
 ## Software
-These are Firmware projects (source code) based on Eclipse IDE for C/C++ Developers (ARM GCC 4.8.3).
+These are Firmware projects (source code) based on CoIDE with GCC ARM Emvedded.(4.8-2014-q1)
+- Development envionment
+  -[CoIDE download link](http://www1.coocox.org/CooCox_CoIDE.htm)
+  -[GCC ARM Embedded download link](https://launchpad.net/gcc-arm-embedded/+download)
 - Firmware source code
   - Application
   - Boot
